@@ -3,22 +3,23 @@ hide:
   - toc
 ---
 
+# Queen of Diamonds
+
 ![Queen of Diamonds by Lewis Acids album cover](images/queen_of_diamonds_by_lewis_acids_album_cover.jpg "Queen of Diamonds by Lewis Acids album cover")
 
-# Queen of Diamonds
-Our first album
+> Lewis Acids’ debut album turns a real encounter, a real city, and a real journey into a symbolic world of crystals, chemistry, distance, desire, and recognition.
 
-> A warm wave concept album that tells a story of Queen of Diamonds from Big Oriental City
-> and Ace of Acid from Moscow Town, who met once in the Net and decided to see each other
-> live under the sky of Oriental City
+*Queen of Diamonds* is a concept album rooted in lived reality and shaped by poetry, language, chemistry, place, and emotional resonance. Its songs follow the meeting between Queen of Diamonds from the Big Oriental City and Ace of Acid from Moscow Town: first through the net, then in person, and then through the subtle border between projection and reality.
 
-Lineup:
+As throughout the album, reality remains fully real, yet opens into symbolism from within.
 
-* Natalia Asoka Wanigasooriya - vocals
-* Stanislav Krapchitov - guitars, bass
-* Fedor Ivaschenko - vocals, keyboards, drum programming 
- 
-Tracklist:
+## lineup
+
+* Natalia Asoka Wanigasooriya — vocals
+* Stanislav Krapchitov — guitars, bass
+* Fedor Ivaschenko — vocals, keyboards, drum programming
+
+## tracklist
 
 1. [Perfect Crystal Overture](01_perfect_crystal_overture.md)
 2. [Ace of Acid](02_ace_of_acid.md)
@@ -34,8 +35,8 @@ Tracklist:
 
 Music and lyrics by Fedor Ivaschenko, arranged by Lewis Acids
 
-Recorded and mixed by Fedor Ivaschenko between 2018 and 2019 on ESKI studio in Moscow
+Recorded and mixed by Fedor Ivaschenko between 2018 and 2019 at ESKI studio in Moscow
 
 Mastered by wikisound.org
 
-Released [on Bandcamp](https://lewisacids.bandcamp.com/album/queen-of-diamonds) and some random streaming services May 24, 2019
+Released [on Bandcamp](https://lewisacids.bandcamp.com/album/queen-of-diamonds) on May 24, 2019

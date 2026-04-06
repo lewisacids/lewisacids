@@ -13,6 +13,7 @@ extra_css:
 
 nav:
   - Home: 'index.md'
+  - About: 'about.md'
   - Bandcamp: 'https://lewisacids.bandcamp.com'
   - Discography:
     - 'Queen of Diamonds': 'https://lewisacids.github.io/queen-of-diamonds'

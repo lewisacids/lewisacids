@@ -1,26 +1,23 @@
+---
+hide:
+  - toc
+---
+
+![Lewis Acids - a music band](images/lewis_acids_by_Ahmad.jpg)
+
 # Lewis Acids
 
-_A warm wave band_
+> Lewis Acids is a band of songs rooted in ordinary life and charged from within by poetry, symbol, and quiet transcendence. Its music lives near synthpop, post-punk, indie pop, and pop rock, but its deeper territory is magic realism.
 
-## our core lineup
+## core lineup
 * Natalia Asoka Wanigasooriya
-* Fedor Ivashchenko
+* Fedor Ivaschenko
 
-## our style and genre
-the warm wave style relies on mostly warm synth sounds and combines the following ones:
+## music
+* [Bandcamp](https://lewisacids.bandcamp.com)
 
-* new wave
-* synthpop
-* indie pop
-* post-punk
-* pop rock
+## discography
+* [Queen of Diamonds](https://lewisacids.github.io/queen-of-diamonds)
 
-## our music
-https://lewisacids.bandcamp.com
-
-## why do we need a GitHub repo?
-[here](https://lewisacids.github.io) be our lyrics and hopefully someday chords
-
-there is an idea to a add wiki-like explanations to them. to make a hadbook for our songs and albums
-
-GitHub gives us a convenient tool to do this and allows our listeners easily help us any time they like
+## about this site
+This site is both a band home and an archive of lyrics, albums, and song notes.
